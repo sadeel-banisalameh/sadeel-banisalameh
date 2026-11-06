@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Sadeel! 👋
 
-<!--
-**sadeel-banisalameh/sadeel-banisalameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Information Systems Graduate** | 💻 **Front-End Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate web developer focused on building clean, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Databases:** SQL Server (T-SQL)
+- **Tools:** VS Code, Git & GitHub, SSMS
+
+📬 **Connect with me:** [LinkedIn](linkedin.com/in/sadeel-bani-salameh-b7212938b)
